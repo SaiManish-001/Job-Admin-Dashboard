@@ -27,7 +27,7 @@ This is an Admin Interface, where admin can manage the job postings time to time
 **Backend :**
 1) Install nodeJS dependencies using the commands **npm init -y** and **npm install express body-parser cors**
 2) Open one more command prompt window, run the command **node server.js**.
-3) You have to see **Server is running on http://localhost:5000** and **MongoDB connected successfully**
+3) You have to see **Server is running on http://localhost:5000** and **MongoDB connected successfully** statements in your cmd prompt.
 
 **MongoDB Usage:**
 1) Install latest version of MongoDB (.msi file) from its official website.
