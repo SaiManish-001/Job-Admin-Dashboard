@@ -2,13 +2,17 @@
 
 This is an Admin Interface, where admin can manage the job postings time to time.
 
-Frontend Technologies used : ReactJS and React Hook Form
+**Frontend Technologies used :** ReactJS and React Hook Form
 
-Backend Technologies used : NodeJS 
+**Backend Technologies used :** NodeJS 
 
-Database : MongodB
+**Database :** MongodB
 
 
 # Dashboard 
 ![image](https://github.com/user-attachments/assets/d66b9d74-7ef5-4cc7-b002-bc1b70112555)
+
+
+# Create Job Form
+![image](https://github.com/user-attachments/assets/4ccb189a-7100-4af0-a79e-22a083460030)
 
