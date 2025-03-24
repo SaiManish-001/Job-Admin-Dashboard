@@ -33,5 +33,6 @@ This is an Admin Interface, where admin can manage the job postings time to time
 1) Install latest version of MongoDB (.msi file) from its official website.
 2) Whenever you run your application, open the **mongodb.exe** file and let it be running in background.
 3) If you dont want to download the application, you can also use MongoDB Atlas by creating your own custom cluster.
+4) If you dont customize your port or db name then by default your mongodb will be running on **mongodb://localhost:27017/jobdb**.
  
 
