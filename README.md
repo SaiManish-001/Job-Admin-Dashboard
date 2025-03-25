@@ -16,6 +16,15 @@ This is an Admin Interface, where admin can manage the job postings time to time
 # Create Job Form
 ![image](https://github.com/user-attachments/assets/4ccb189a-7100-4af0-a79e-22a083460030)
 
+# API
+**GET Method**
+![image](https://github.com/user-attachments/assets/857a5f47-cbaf-4fc7-98c8-a2c903c35154)
+![image](https://github.com/user-attachments/assets/1e65c45e-aa2e-417c-a434-972af8a8ddbb)
+**POST Method**
+![image](https://github.com/user-attachments/assets/f8aae888-0880-4531-9e4c-d23826fa9fe5)
+![image](https://github.com/user-attachments/assets/39eeb385-036a-4429-a39e-7fb4311bb16f)
+![image](https://github.com/user-attachments/assets/51ddc3cb-ae31-4c6e-9ca0-0e11a1628e72)
+
 
 # Steps to run application
 
